@@ -4,7 +4,7 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.02
+const solAmount = 0.022222222
 const image = 'https://pbs.twimg.com/profile_images/1505299365170393088/OcfY0CYt_400x400.jpg' 
 const Title = 'Puff Penguins Club'
 
