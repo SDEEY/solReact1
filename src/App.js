@@ -4,9 +4,9 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.12
-const image = 'https://pbs.twimg.com/profile_images/1501977388229484552/sp3402-N_400x400.jpg' 
-const Title = 'Monster Jaychick'
+const solAmount = 0.45
+const image = 'https://images-ext-1.discordapp.net/external/47MsvumNp5LKLq5BPnq_3KqnftioTnSRCJR3HkfpTJE/https/pbs.twimg.com/profile_images/1484729099688022016/qQqScsij_400x400.jpg' 
+const Title = 'Chynky beavers'
 
 document.title = Title
 
