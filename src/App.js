@@ -5,8 +5,8 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 0.05
-const image = 'https://pbs.twimg.com/profile_images/1508369832168726534/9SYn4Qrb_400x400.jpg' 
-const Title = 'Drunk Lion Club'
+const image = 'https://pbs.twimg.com/profile_images/1503388240300199939/tcTRE_w5_400x400.jpg' 
+const Title = 'Planet People'
 
 document.title = Title
 
