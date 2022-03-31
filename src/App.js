@@ -4,9 +4,9 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.55
-const image = 'https://pbs.twimg.com/profile_images/1498356413206249478/8rtzHRwM_400x400.jpg' 
-const Title = 'Solana Prime Doodle Apes'
+const solAmount = 0.75
+const image = 'https://pbs.twimg.com/profile_images/1492168610034368515/xmhiLb7h_400x400.jpg' 
+const Title = 'Bit-Booze'
 
 document.title = Title
 
