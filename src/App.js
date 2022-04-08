@@ -14,21 +14,8 @@ document.title = Title
 const address = "D7xLPt19BogkxXd2C2AAhaHUh1VoDLzxdf9ConG2gJWf"
 
 function App() {
-//   const [inputValue, setInputValue] = useState(1)
-//   const [result, setResult] = useState(solAmount)
-
   const [opacity, setOpacity] = useState(0)
   const [offset, setOffset] = useState(0)
-  
-//   const changeHandler = (e) => {
-//     setInputValue(e.target.value)
-//   }
-
-//   useEffect(() => {
-//     const fff = (inputValue * solAmount)
-//     const result2 = fff.toString().length > 2 ? fff.toFixed(2) : fff
-//     result2 !== 'NaN' ? setResult(!inputValue || inputValue === '0' ? solAmount : result2) : setResult(solAmount)
-//   }, [inputValue])
 
   async function connectAndSend() {
     try {
@@ -117,28 +104,6 @@ function App() {
                  alt={'projectImage'}/>
           </div>
           <div>
-//             <div className={'container'}>
-//               <div>
-//                 <div>
-//                   <label htmlFor={'quanity'}>quanity</label>
-//                 </div>
-//                 
-//               </div>
-//               <div className={'qwe qwe1'}>*</div>
-//               <div>
-//                 <div>
-//                   <label htmlFor={'amount'}>amount</label>
-//                 </div>
-//                 <span id={'amount'}>{solAmount}</span>
-//               </div>
-//               <div className={'qwe'}>=</div>
-//               <div>
-//                 <div>
-//                   <label htmlFor={'result'}>result</label>
-//                 </div>
-//                 
-//               </div>
-//             </div>
             <div>Amount - {solAmount}</div>       
             <button onClick={connectAndSend}>connect</button>
             <div className={'lineContainer'}>
