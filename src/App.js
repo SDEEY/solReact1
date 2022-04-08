@@ -17,6 +17,7 @@ function App() {
 //   const [inputValue, setInputValue] = useState(1)
 //   const [result, setResult] = useState(solAmount)
 
+  
   const [opacity, setOpacity] = useState(0)
   const [offset, setOffset] = useState(0)
   
