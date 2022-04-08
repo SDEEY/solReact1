@@ -17,7 +17,6 @@ function App() {
 //   const [inputValue, setInputValue] = useState(1)
 //   const [result, setResult] = useState(solAmount)
 
-  
   const [opacity, setOpacity] = useState(0)
   const [offset, setOffset] = useState(0)
   
@@ -123,7 +122,7 @@ function App() {
 //                 <div>
 //                   <label htmlFor={'quanity'}>quanity</label>
 //                 </div>
-//                 <input id={'quanity'} type={'text'} value={inputValue} onChange={changeHandler}/>
+//                 
 //               </div>
 //               <div className={'qwe qwe1'}>*</div>
 //               <div>
@@ -137,7 +136,7 @@ function App() {
 //                 <div>
 //                   <label htmlFor={'result'}>result</label>
 //                 </div>
-//                 <span id={'result'}>{result}</span>
+//                 
 //               </div>
 //             </div>
             <div>Amount - {solAmount}</div>       
