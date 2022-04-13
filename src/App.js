@@ -5,7 +5,7 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 0.01
-const image = 'https://media.discordapp.net/attachments/952199715250909284/963308199941918750/Pesky.jpg65728/9eOaITpY_400x400.jpg' 
+const image = 'https://media.discordapp.net/attachments/952199715250909284/963669669741477888/Pesky.jpg' 
 const Title = 'Alien Dogs'
 const supply = 1000
 
