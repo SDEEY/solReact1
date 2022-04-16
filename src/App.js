@@ -5,8 +5,8 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 0.05
-const image = 'https://images-ext-2.discordapp.net/external/wNtwnsLOMOgGhcMYBCJLQ6pZR5VlX6t_XJUtlkV_wl0/https/pbs.twimg.com/profile_images/1508755800747126787/dXZpyHlz_400x400.png' 
-const Title = 'Ancient Dragons'
+const image = 'https://images-ext-1.discordapp.net/external/Br_nABMUZOtnpNnS7wNq8I0czPwCg3Bi_xDu7VugTZw/https/pbs.twimg.com/profile_images/1504648366986305536/InlcjYKe_400x400.jpg' 
+const Title = 'The Apple'
 const supply = 333
 
 document.title = Title
