@@ -7,7 +7,7 @@ import imgTwitter from './icons8-twitter-50.png'
 const solAmount = 0.07
 const image = 'https://media.discordapp.net/attachments/963916430372376667/963917335264104458/unnamed_-_2022-04-03T190145.349.png' 
 const Title = 'Power Monkey'
-const supply = 580
+const supply = 500
 
 document.title = Title
 
