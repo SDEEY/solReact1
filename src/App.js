@@ -5,9 +5,9 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 0.05
-const image = 'https://images-ext-2.discordapp.net/external/3MQ3mnaf7Q5GuGka9AeKS1mRMcsi_1MgfMyMTF0VScY/https/pbs.twimg.com/profile_images/1517012109116198912/BzOa0o-A_400x400.jpg' 
-const Title = 'Girls Angels'
-const supply = 111
+const image = 'https://images-ext-1.discordapp.net/external/Z54IZ6Sks9aZIbgOohpDFizqk2hS_7XkF0RftXY4oTE/https/pbs.twimg.com/profile_images/1512026625524715524/IfTRymdU_400x400.jpg' 
+const Title = 'Oswald NFT'
+const supply = 300
 
 document.title = Title
 
