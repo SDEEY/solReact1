@@ -5,9 +5,9 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 0.07
-const image = 'https://images-ext-1.discordapp.net/external/8UFbMje0x5SHImIJ4zWJka9Sulyme6eym40Bqj3FIM8/https/pbs.twimg.com/profile_images/1505613975261790208/cTpJ9ULi_400x400.jpg' 
-const Title = 'Infamous Bears'
-const supply = 250
+const image = 'https://images-ext-1.discordapp.net/external/UyapSoxns6y6GX5teIEkaJ-Jmh4o9iBau7PT-GRfO3E/https/pbs.twimg.com/profile_images/1519460957319225344/VUWomk6w_400x400.jpg' 
+const Title = 'Gym Avatars'
+const supply = 100
 
 document.title = Title
 
