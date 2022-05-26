@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.11
-const image = 'https://media.discordapp.net/attachments/897572818756186142/910681522338693140/nov18.gif?width=610&height=610' 
-const Title = '00RR0R v2'
-const supply = 3333
+const solAmount = 1
+const image = 'https://howrare.is/drop_logos/4870_LZKKPytB.jpg' 
+const Title = 'Azuria Droids!'
+const supply = 5555
 
 document.title = Title
 
