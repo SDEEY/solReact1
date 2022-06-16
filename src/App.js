@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 1
-const image = 'https://images-ext-2.discordapp.net/external/D-5zGBXovEl1dzB_DZ1-621lwIxmCU0Vkju1GrZ-H1w/https/pbs.twimg.com/profile_images/1526670983851130883/prlY4c44_400x400.jpg' 
-const Title = 'Solana Business Cards By Simetra Labs'
-const supply = 2222
+const solAmount = 0
+const image = 'https://media.discordapp.net/attachments/968159245914767390/980879873792946216/66.png' 
+const Title = 'Royal Racing'
+const supply = 3428
 
 document.title = Title
 
