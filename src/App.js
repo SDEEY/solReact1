@@ -6,8 +6,8 @@ import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 2
 const image = 'https://media.discordapp.net/attachments/938820141490241668/987354477277380698/unknown.png?width=610&height=610' 
-const Title = 'Snuggle Squad'
-const supply = 7777
+const Title = 'Udder Chaos'
+const supply = 6666
 
 document.title = Title
 
