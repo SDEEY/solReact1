@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.079
-const image = 'https://media.discordapp.net/attachments/984261090554834954/989471352929005618/0.png?width=610&height=610' 
-const Title = 'BLXSSXD'
-const supply = 3333
+const solAmount = 0.25
+const image = 'https://media.discordapp.net/attachments/988326767909568522/989518323597340682/Silver_copy_2.png?width=610&height=610' 
+const Title = 'Casino Gaming Portal'
+const supply = 555
 
 document.title = Title
 
