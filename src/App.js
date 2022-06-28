@@ -6,7 +6,7 @@ import imgTwitter from './icons8-twitter-https://media.discordapp.net/attachment
 
 const solAmount = 3.5
 const image = 'https://media.discordapp.net/attachments/965985099847966720/991119118491189309/AGENT_M-2.png?width=610&height=610' 
-const Title = 'CodeName: Perseus'
+const Title = 'CodeName - Perseus'
 const supply = 5555
 
 document.title = Title
