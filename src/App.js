@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.033
-const image = 'https://images-ext-1.discordapp.net/external/KVL6l7SEvaU4h9lTCymSCDxL7tx1M8eQUP-6VURQmbU/%3Falt%3Dmedia%26token%3D72f99e87-7730-4abb-b068-e3616d5ff834/https/firebasestorage.googleapis.com/v0/b/launch-my-nft.appspot.com/o/Users%252FHU6U1JF7cgC1zRud99UHfSUKe38y5MhTFcNmbj5Hnt4p%252FCollections%252FmLQNHPn5skgpm8sib9Ex%252Fcover?width=610&height=610' 
-const Title = 'Day Trading Droids'
-const supply = 8500
+const solAmount = 3
+const image = 'https://media.discordapp.net/attachments/988295056010141766/988867754452996096/unknown.png?width=610&height=610' 
+const Title = 'Pog Digital'
+const supply = 7010
 
 document.title = Title
 
