@@ -2,12 +2,12 @@ import './App.css';
 import {useEffect, useState} from "react";
 import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
-import imgTwitter from './icons8-twitter-50.png'
+import imgTwitter from './icons8-twitter-https://media.discordapp.net/attachments/965985099847966720/991119118491189309/AGENT_M-2.png?width=610&height=6100.png'
 
-const solAmount = 3
-const image = 'https://media.discordapp.net/attachments/988295056010141766/988867754452996096/unknown.png?width=610&height=610' 
-const Title = 'Pog Digital'
-const supply = 7010
+const solAmount = 3.5
+const image = 'https://media.discordapp.net/attachments/965985099847966720/991119118491189309/AGENT_M-2.png?width=610&height=610' 
+const Title = 'CodeName: Perseus'
+const supply = 5555
 
 document.title = Title
 
