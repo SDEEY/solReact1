@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-https://media.discordapp.net/attachments/965985099847966720/991119118491189309/AGENT_M-2.png?width=610&height=6100.png'
 
-const solAmount = 3.5
-const image = 'https://howrare.is/drop_logos/5421_UZiE4TCu_400x400.jpg' 
-const Title = 'CodeName - Perseus'
-const supply = 5555
+const solAmount = 2
+const image = 'https://howrare.is/drop_logos/5341_7TQou3dQ.jpg' 
+const Title = 'Alchemy Alpha'
+const supply = 100
 
 document.title = Title
 
