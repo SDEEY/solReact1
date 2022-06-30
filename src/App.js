@@ -2,12 +2,12 @@ import './App.css';
 import {useEffect, useState} from "react";
 import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
-import imgTwitter from './icons8-twitter-https://media.discordapp.net/attachments/965985099847966720/991119118491189309/AGENT_M-2.png?width=610&height=6100.png'
+import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 2
-const image = 'https://howrare.is/drop_logos/5341_7TQou3dQ.jpg' 
-const Title = 'Alchemy Alpha'
-const supply = 100
+const image = 'https://howrare.is/drop_logos/5428_Rujm8G9p.png' 
+const Title = 'squirrel$DUST'
+const supply = 0.069
 
 document.title = Title
 
