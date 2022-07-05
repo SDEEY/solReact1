@@ -5,9 +5,9 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 2
-const image = 'https://howrare.is/drop_logos/5051_CMLzr2Lg.png' 
+const image = 'https://howrare.is/drop_logos/5329_gMnbEY1s.jpg' 
 const Title = 'Sweet Apocalypse'
-const supply = 8888
+const supply = 2222
 
 document.title = Title
 
