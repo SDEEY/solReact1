@@ -5,9 +5,9 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 3
-const image = 'https://howrare.is/drop_logos/5464_wD8EZMT6.jpg' 
-const Title = 'Zero Evolution'
-const supply = 5555
+const image = 'https://howrare.is/drop_logos/5420_t0JDEMlH.jpg' 
+const Title = 'Curious APE'
+const supply = 10000
 
 document.title = Title
 
