@@ -4,7 +4,7 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 2
+const solAmount = 0.99
 const image = 'https://howrare.is/drop_logos/5482_Bp7OBkoW.jpg' 
 const Title = 'Aquia CLUB'
 const supply = 3333
