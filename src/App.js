@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0
-const image = 'https://nftsolana.io/wp-content/uploads/2022/08/fye4ZadP_400x400.jpeg' 
-const Title = 'Clout Bots'
-const supply = 5000
+const solAmount = 0.15
+const image = 'https://pbs.twimg.com/profile_images/1532911335083761666/-n6eeWWV_400x400.jpg' 
+const Title = 'JUNGLE JUICE NFT'
+const supply = 5555
 
 document.title = Title
 
