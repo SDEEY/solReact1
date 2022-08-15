@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.4
-const image = 'https://howrare.is/drop_logos/5755_mKH5n0F5.jpg' 
-const Title = 'Meta Banana'
-const supply = 222
+const solAmount = 0.35
+const image = 'https://nftsolana.io/wp-content/uploads/2022/08/spookyhealerNFT-1.jpg' 
+const Title = 'OBE Broken Headz'
+const supply = 5555
 
 document.title = Title
 
