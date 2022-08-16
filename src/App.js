@@ -4,9 +4,9 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.19
-const image = 'https://howrare.is/drop_logos/5704_A6erSNaG_400x400.jpg' 
-const Title = 'WE ARE DIFFERENT'
+const solAmount = 0.1
+const image = 'https://pbs.twimg.com/profile_images/1554041003786502145/MLgoHw2f_400x400.png' 
+const Title = 'Forest Discovery FI'
 const supply = 1111
 
 document.title = Title
