@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.2
-const image = 'https://pbs.twimg.com/media/Fa25hw8XEAADZsx?format=png&name=small' 
-const Title = 'Goblin Games'
-const supply = 1111
+const solAmount = 0.9
+const image = 'https://nftsolana.io/wp-content/uploads/2022/08/Skunk_Social.jpg' 
+const Title = 'Skunk Social Club'
+const supply = 5555
 
 document.title = Title
 
