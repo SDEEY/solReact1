@@ -6,7 +6,7 @@ import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 0.6
 const image = 'https://howrare.is/drop_logos/5795_KQH1JkYz.png' 
-const Title = 'MYRIAD CREATURES'
+const Title = 'Da Bobos (Da Bois Gen2)'
 const supply = 1500
 
 document.title = Title
