@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 1
-const image = 'https://pbs.twimg.com/profile_images/1563598143492481024/hdQreOG3_400x400.jpg' 
-const Title = 'Decentric Studios'
-const supply = 555
+const solAmount = 2
+const image = 'https://pbs.twimg.com/profile_images/1553734515415289856/67o7a-SD_400x400.jpg' 
+const Title = 'INFINUS NFT'
+const supply = 10000
 
 document.title = Title
 
