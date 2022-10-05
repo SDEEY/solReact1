@@ -7,7 +7,7 @@ import imgTwitter from './icons8-twitter-50.png'
 const solAmount = 0.5
 const image = 'https://howrare.is/drop_logos/5809_On04-lpJ.jpg' 
 const Title = 'Bones'
-const supply = 3333
+const supply = 3331
 
 document.title = Title
 
